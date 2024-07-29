@@ -96,6 +96,6 @@ Feel free to contribute to this project by submitting issues or pull requests. T
 5. Create a new Pull Reques
 
 ## Screenshot
-"C:\Users\My Pc\Pictures\Screenshots\py todolist.png"
+![py todolist](https://github.com/user-attachments/assets/83034d1d-6e8c-449a-b300-eb788450d9fd)
 
 
